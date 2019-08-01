@@ -1,4 +1,3 @@
-require 'pry'
 # passengers = {
 # suite_a: "Amanda Presley",
 # suite_b: "Seymour Hoffman",
@@ -9,7 +8,5 @@ require 'pry'
 
 def select_winner(passengers)
   # add the code snippet here!
-  passengers.each do |key, value|
-    puts "#{value}"
-  end
+  
 end
