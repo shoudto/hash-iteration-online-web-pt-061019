@@ -14,5 +14,7 @@ def happy_birthday(birthday_kids)
 end
 
 def age_appropriate_birthday(birthday_kids)
-  binding.pry
+  birthday_kids.each do |kid_name, age|
+
+  end 
 end
